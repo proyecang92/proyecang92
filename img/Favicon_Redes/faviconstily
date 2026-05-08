@@ -1,0 +1,7 @@
+.dicord {
+    background-image: url('img/Favicon_Redes/discordia.png');
+    background-size: cover;
+    width: 16px;
+    height: 16px;
+
+}
